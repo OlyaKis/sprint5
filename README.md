@@ -13,10 +13,8 @@ tests_login_logout:
 Вход через форму восстановления пароля.
 Выход из аккаунта. 
 
-tests_click_on_account_button:
+tests_click_on_account_and_constructor:
 Переход в личный кабинет после авторизации.
-
-tests_click_from_account_to_constructor:
 Переход в конструктор после авторизации.
 
 tests_constructor_section:
